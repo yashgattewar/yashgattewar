@@ -2,12 +2,14 @@
 
 ### Computer Engineering Student · Full-Stack Developer · AI/ML Enthusiast
 
+Building practical software and turning ideas into real-world applications.
+
 <p>
   <a href="https://YOUR-PORTFOLIO-URL.com">
     <img src="https://img.shields.io/badge/VIEW%20MY%20PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -15,15 +17,15 @@
 
 ## ABOUT ME
 
-I'm a Computer Engineering student who enjoys turning ideas into practical software.
+I'm a Computer Engineering student passionate about building useful software and exploring modern technologies.
 
-My interests are focused on **full-stack development, artificial intelligence, machine learning, and automation**.
+My main interests are **full-stack development, artificial intelligence, machine learning, automation, and problem solving**.
 
-I learn by building — from web applications and database systems to AI-powered tools.
+I prefer learning through practical projects — designing, developing, testing and improving real applications.
 
 ---
 
-## TECHNOLOGIES I WORK WITH
+## TECHNOLOGIES
 
 ### Languages
 
@@ -51,7 +53,7 @@ I learn by building — from web applications and database systems to AI-powered
 
 # FEATURED PROJECTS
 
-## TALK2SLIDES
+## 01 · TALK2SLIDES
 
 ### Speech → AI → PowerPoint
 
@@ -59,9 +61,9 @@ I learn by building — from web applications and database systems to AI-powered
 
 A web application that converts spoken content into structured PowerPoint presentations.
 
-**Highlights**
+### Key Features
 
-* Speech-to-text
+* Speech-to-text conversion
 * AI-powered content generation
 * Automatic slide creation
 * PowerPoint generation
@@ -69,7 +71,7 @@ A web application that converts spoken content into structured PowerPoint presen
 * User authentication
 * Payment integration
 
-**Built with**
+**Technology**
 
 `React` `Node.js` `Express` `JavaScript` `AI`
 
@@ -81,44 +83,52 @@ A web application that converts spoken content into structured PowerPoint presen
 
 ---
 
-## EXPLAINABLE AI FOR LOAN APPROVAL
+## 02 · HOMEWARD ESTATE
 
-### Intelligent Credit Risk Assessment
+### Modern Real Estate Platform
 
-<img src="./assets/loan-ai.png" width="850" />
+<img src="./assets/homeward-estate.png" width="850" />
 
-An AI/ML system designed to support loan approval decisions while providing understandable explanations for model predictions.
+A modern real-estate application designed to provide an easy way for users to explore and manage property listings.
 
-**Highlights**
+### Key Features
 
-* Credit risk prediction
-* Machine learning classification
-* Feature importance
-* SHAP explanations
-* LIME explanations
-* Decision support
+* Property listings
+* Property search
+* Property details
+* Modern responsive interface
+* User-friendly navigation
+* Real-estate focused UI
 
-**Built with**
+**Technology**
 
-`Python` `Machine Learning` `SHAP` `LIME`
+`React` `JavaScript` `HTML` `CSS`
 
 <p>
-<a href="https://github.com/YOUR_USERNAME/YOUR_LOAN_AI_REPO">
+<a href="https://github.com/YOUR_USERNAME/YOUR_HOMEWARD_ESTATE_REPO">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-## CAR SHOWROOM MANAGEMENT
+## 03 · CAR SHOWROOM MANAGEMENT
 
 ### Web-Based Management System
 
 <img src="./assets/showroom.png" width="850" />
 
-A database-driven application designed to manage showroom information and operations.
+A database-driven application for managing car showroom information and operations.
 
-**Built with**
+### Key Features
+
+* Car management
+* Customer management
+* CRUD operations
+* Database integration
+* Web-based interface
+
+**Technology**
 
 `Python` `Flask` `MySQL` `HTML` `CSS` `JavaScript`
 
@@ -130,57 +140,52 @@ A database-driven application designed to manage showroom information and operat
 
 ---
 
-# WHAT I'M WORKING ON
+# CURRENTLY BUILDING
 
 ```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│  FULL-STACK DEVELOPMENT                      │
-│  Building modern web applications            │
-│                                              │
-│  ARTIFICIAL INTELLIGENCE                     │
-│  Exploring AI-powered applications           │
-│                                              │
-│  MACHINE LEARNING                             │
-│  Learning practical ML techniques             │
-│                                              │
-│  SOFTWARE ENGINEERING                        │
-│  Improving architecture & problem solving     │
-│                                              │
-└──────────────────────────────────────────────┘
+FULL-STACK DEVELOPMENT
+Building modern web applications
+                    ↓
+ARTIFICIAL INTELLIGENCE
+Exploring AI-powered applications
+                    ↓
+MACHINE LEARNING
+Learning practical ML techniques
+                    ↓
+SOFTWARE ENGINEERING
+Improving architecture & problem solving
+                    ↓
+CLOUD & DEPLOYMENT
+Learning modern deployment workflows
 ```
 
 ---
 
-# MY DEVELOPMENT JOURNEY
+# MY DEVELOPMENT APPROACH
 
-**Learn**
+**01 — Understand**
 
-Understanding concepts and technologies.
+Break the problem into smaller parts.
 
-↓
+**02 — Design**
 
-**Build**
+Plan the architecture and user experience.
 
-Turning ideas into working applications.
+**03 — Build**
 
-↓
+Turn the idea into a working application.
 
-**Experiment**
+**04 — Test**
 
-Trying new technologies and approaches.
+Find bugs and improve reliability.
 
-↓
+**05 — Improve**
 
-**Improve**
+Refine performance, usability and design.
 
-Testing, debugging and refining.
+**06 — Deploy**
 
-↓
-
-**Deploy**
-
-Turning projects into usable products.
+Turn the project into something people can use.
 
 ---
 
@@ -194,36 +199,45 @@ Turning projects into usable products.
 
 ---
 
+# AREAS OF INTEREST
+
+```text
+AI & Machine Learning
+        •
+Full-Stack Development
+        •
+Generative AI
+        •
+Automation
+        •
+Backend Engineering
+        •
+Developer Tools
+        •
+Real-World Applications
+```
+
+---
+
 # BEYOND CODE
 
-I enjoy working on projects where technology can solve practical problems.
+I enjoy exploring ideas where technology can solve practical problems.
 
-I'm particularly interested in:
+I'm particularly interested in building applications that are:
 
-* AI-powered applications
-* Developer tools
-* Automation
-* Web applications
-* Intelligent systems
-* Hackathon projects
-* Open-source development
+**Useful · Simple · Scalable · Intelligent**
 
 ---
 
 # LET'S CONNECT
 
-If you're interested in technology, collaboration or building something interesting, feel free to connect.
-
 <p>
-<a href="https://YOUR-PORTFOLIO-URL.com">
-<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="https://YOUR-PORTFOLIO-URL.com">
+    <img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+    <img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
