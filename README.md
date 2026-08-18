@@ -1,203 +1,224 @@
-<!--
-  👋 Welcome to my GitHub Profile
-  Built with ❤️ | Dark Blue Theme
-  Last Updated: August 2026
--->
+# YASH GATTEWAR
 
-<div align="center">
+**Computer Engineering Student · Full-Stack Developer · AI/ML Enthusiast**
 
-# 👋 Yash Gattewar
+> Building practical software, exploring AI, and turning ideas into real-world applications.
 
-### 🎓 Computer Engineering Student · 💻 Full-Stack Developer · 🤖 AI/ML Enthusiast
-
-> 🚀 Building practical software with modern web technologies, AI, and automation
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashgattewar)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yash@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FF87?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-yash.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashgattewar)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:your-email@example.com)
 
 ---
 
-</div>
+## ABOUT ME
 
-## 🚀 Currently Building
+I'm a Computer Engineering student passionate about software development and artificial intelligence.
 
-<div align="center">
+I enjoy building applications that solve practical problems and learning new technologies through hands-on projects.
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **🎤 Talk2Slides** | Speech-to-Presentation Generator using AI & Speech Recognition | React · Node.js · AI |
-| **🧠 Explainable AI** | ML-based loan approval with XAI techniques (SHAP, LIME) | Python · TensorFlow · XAI |
-| **🚗 Car Showroom** | Full-stack web app for managing car showroom operations | Flask · MySQL · React |
-
-</div>
+* Currently developing full-stack applications
+* Exploring Artificial Intelligence and Machine Learning
+* Building AI-powered tools and automation systems
+* Improving my Data Structures & Algorithms skills
+* Interested in scalable backend systems and modern web technologies
 
 ---
 
-## 💻 Tech Stack
+## WHAT I BUILD
 
-<div align="center">
-
-### Languages & Core
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/-Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-68A063?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### Database
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### AI/ML
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### Tools & DevOps
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=yashgattewar&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1b2a&title_color=00b4d8&text_color=ffffff&icon_color=00b4d8)
-
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/api?username=yashgattewar&theme=dark&hide_border=true&background=0d1b2a&stroke=00b4d8&currStreakLabel=00b4d8)
-
-</div>
-
-<div align="center">
-
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=yashgattewar&layout=compact&theme=dark&hide_border=true&bg_color=0d1b2a&title_color=00b4d8&text_color=ffffff)
-
-![Contribution Graph](https://ghchart.rshah.org/00b4d8/yashgattewar)
-
-</div>
-
----
-
-## 🏆 Featured Projects
-
-<div align="center">
-
-[![Talk2Slides](https://github-readme-project-card.vercel.app/api/pin?username=yashgattewar&repo=talk2slides&theme=dark&show_owner=true&bg_color=0d1b2a&title_color=00b4d8&text_color=ffffff)](https://github.com/yashgattewar/talk2slides)
-
-[![Explainable AI](https://github-readme-project-card.vercel.app/api/pin?username=yashgattewar&repo=explainable-ai-loan&theme=dark&show_owner=true&bg_color=0d1b2a&title_color=00b4d8&text_color=ffffff)](https://github.com/yashgattewar/explainable-ai-loan)
-
-[![Car Showroom](https://github-readme-project-card.vercel.app/api/pin?username=yashgattewar&repo=car-showroom&theme=dark&show_owner=true&bg_color=0d1b2a&title_color=00b4d8&text_color=ffffff)](https://github.com/yashgattewar/car-showroom)
-
-</div>
-
----
-
-## 🌟 GitHub Trophies
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yashgattewar&theme=dark&column=4&margin-w=15&margin-h=15&hide_border=true&bg_color=0d1b2a&title_color=00b4d8&text_color=ffffff)](https://github.com/yashgattewar)
-
-</div>
-
----
-
-## 📈 Learning Journey
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Yash Gattewar"
-        self.role = "Computer Engineering Student"
-        self.focus = ["Full-Stack Dev", "AI/ML Enthusiast"]
-    
-    def currently_learning(self):
-        return [
-            "🤖 Artificial Intelligence",
-            "🧠 Machine Learning",
-            "✨ Generative AI",
-            "📊 Data Structures & Algorithms",
-            "⚙️ Backend Development",
-            "☁️ Cloud & Deployment"
-        ]
-    
-    def build_projects(self):
-        return "Real-world applications that solve problems"
-
-# Let's connect and build something amazing! 🚀
+```text
+┌─────────────────────────────────────────────┐
+│                                             │
+│   WEB APPLICATIONS                          │
+│   Modern and responsive full-stack apps     │
+│                                             │
+│   AI-POWERED APPLICATIONS                  │
+│   Intelligent systems using AI/ML           │
+│                                             │
+│   AUTOMATION                                │
+│   Turning repetitive tasks into software    │
+│                                             │
+│   REAL-WORLD PROJECTS                       │
+│   Practical solutions to real problems      │
+│                                             │
+└─────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🎯 Development Workflow
+## FEATURED PROJECTS
 
-<div align="center">
+### 01 · TALK2SLIDES
 
-> "The best way to learn technology is by building projects that solve real problems."
+**Speech → AI → Presentation**
 
-</div>
+A web application that transforms spoken content into structured PowerPoint presentations.
 
----
+**Key Features**
 
-## 📫 Let's Connect
+* Speech-to-text conversion
+* AI-based content processing
+* Automatic slide generation
+* PowerPoint file generation
+* Translation support
+* User authentication
+* Payment integration
 
-<div align="center">
+**Technology**
 
-### I'm always interested in learning, collaborating, and working on interesting tech projects!
-
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1b2a&color=0077B5)](https://linkedin.com/in/yashgattewar)
-[![Twitter](https://custom-icon-badges.demolab.com/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1b2a&color=1DA1F2)](https://twitter.com/yashgattewar)
-[![Email](https://custom-icon-badges.demolab.com/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1b2a&color=D14836)](mailto:yash@example.com)
-[![Portfolio](https://custom-icon-badges.demolab.com/badge/Portfolio-00FF87?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0d1b2a&color=00FF87)](https://portfolio-yash.vercel.app)
-
-</div>
-
----
-
-## 🦾 Snake Animation
-
-<div align="center">
-
-![Snake Animation](https://raw.githubusercontent.com/yashgattewar/yashgattewar/output/github-contribution-grid-snake.svg)
-
-</div>
+`React` `Node.js` `Express` `JavaScript` `AI` `Speech Recognition`
 
 ---
 
-## 📊 Profile Views
+### 02 · EXPLAINABLE AI FOR LOAN APPROVAL
 
-<div align="center">
+**Credit Risk Assessment & Financial Decision Support**
 
-![Profile Views](https://api.visitorbadge.io/api/visitors?path=yashgattewar&label=Profile%20Views&labelColor=%230d1b2a&color=%2300b4d8&style=for-the-badge&logo=github)
+An AI/ML-based system designed to support loan approval decisions while making predictions easier to understand.
 
-</div>
+**Key Features**
+
+* Credit risk prediction
+* Machine learning classification
+* Explainable predictions
+* Feature importance
+* SHAP / LIME based explanations
+* Financial decision support
+
+**Technology**
+
+`Python` `Machine Learning` `SHAP` `LIME` `Data Science`
 
 ---
 
-<div align="center">
+### 03 · CAR SHOWROOM MANAGEMENT SYSTEM
 
-### ⭐ Thanks for visiting! Feel free to check out my projects and connect.
+A web-based application for managing showroom operations and database information.
 
-**Made with ❤️ and lots of ☕**
+**Key Features**
+
+* Car management
+* Customer management
+* Database operations
+* CRUD functionality
+* Web-based interface
+
+**Technology**
+
+`Python` `Flask` `MySQL` `HTML` `CSS` `JavaScript`
 
 ---
 
-*Last Updated: August 2026*
+## TECHNICAL SKILLS
 
-</div>
+### Programming
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+
+### Development Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+
+### AI / ML
+
+`Python` · `Machine Learning` · `NLP` · `Generative AI`
+
+---
+
+## CURRENTLY LEARNING
+
+```text
+Artificial Intelligence
+        ↓
+Machine Learning
+        ↓
+Generative AI
+        ↓
+Backend Development
+        ↓
+Cloud & Deployment
+        ↓
+Advanced Software Engineering
+```
+
+---
+
+## DEVELOPMENT APPROACH
+
+I follow a simple approach when building projects:
+
+**Understand → Design → Build → Test → Improve → Deploy**
+
+I prefer learning technologies by actually building applications rather than only studying theory.
+
+---
+
+## PROJECT PHILOSOPHY
+
+> "Don't just learn technology. Build something with it."
+
+Every project is an opportunity to:
+
+* Learn a new technology
+* Solve a practical problem
+* Improve engineering skills
+* Experiment with new ideas
+* Build something useful
+
+---
+
+## CURRENT FOCUS
+
+**01** — Full-Stack Development
+**02** — Artificial Intelligence & Machine Learning
+**03** — Data Structures & Algorithms
+**04** — Backend Engineering
+**05** — Real-World Project Development
+
+---
+
+## OPEN TO
+
+* Collaboration on interesting projects
+* Open-source contributions
+* Hackathons
+* AI/ML projects
+* Full-stack development projects
+* Learning opportunities
+
+---
+
+## CONNECT
+
+**GitHub:** [github.com/YOUR_USERNAME](https://github.com/)
+
+**LinkedIn:** [linkedin.com/in/YOUR_USERNAME](https://linkedin.com/)
+
+**Email:** [your-email@example.com](mailto:your-email@example.com)
+
+---
+
+### BUILD · LEARN · IMPROVE
+
+*Always learning. Always building.*
+
+<sub>© 2026 Yash Gattewar</sub>
