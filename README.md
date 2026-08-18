@@ -8,7 +8,7 @@
   <a href="YOUR_PORTFOLIO_URL">
     <img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/yash-gattewar-0a612a332?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -21,7 +21,7 @@
 
 ### Speech → Content → PowerPoint
 
-<img src="./assets/talk2slides.png" width="900" alt="Talk2Slides">
+<img src="./talk2slides.png" width="900" alt="Talk2Slides">
 
 A web application I'm building to turn spoken input into structured PowerPoint presentations.
 
