@@ -21,7 +21,7 @@
 
 ### Speech → Content → PowerPoint
 
-<img src="./talk2slides.png" width="900" alt="Talk2Slides">
+<img src="./talk2slides.jpeg" width="900" alt="Talk2Slides">
 
 A web application I'm building to turn spoken input into structured PowerPoint presentations.
 
