@@ -1,288 +1,217 @@
 # YASH GATTEWAR
 
-### Computer Engineering Student · Full-Stack Developer in Progress
+### Computer Engineering Student · Developer · Builder
 
-Building practical web applications, learning modern software development, and turning ideas into working products.
+**I build web applications and experiment with AI-powered ideas.**
 
-<p> <a href="YOUR_PORTFOLIO_URL"> <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/yash-gattewar-0a612a332?utm_source=share_via&utm_content=profile&utm_medium=member_android"> <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
-
----
-
-## ABOUT ME
-
-I'm a Computer Engineering student focused on developing practical software applications.
-
-I learn technology by building projects — from frontend interfaces and backend APIs to database-driven applications and recommendation systems.
-
-My current development experience is mainly around **JavaScript, React, Node.js, Express, Python, Flask and MySQL**.
-
-I'm continuously improving my foundations in **Data Structures & Algorithms, backend development, software engineering and Artificial Intelligence/Machine Learning**.
+<p>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## WHAT I BUILD
+# PROJECTS
 
-**Web Applications**
-Creating responsive and user-friendly applications using modern frontend technologies.
+## 🎤 Talk2Slides
 
-**Backend Systems**
-Developing server-side functionality and APIs using Node.js, Express and Python/Flask.
+### Speech → Content → PowerPoint
 
-**Database Applications**
-Working with MySQL and application data to build functional database-driven systems.
+<img src="./assets/talk2slides.png" width="900" alt="Talk2Slides">
 
-**AI-Powered Applications**
-Exploring practical applications of AI, recommendation systems and intelligent automation.
+A web application I'm building to turn spoken input into structured PowerPoint presentations.
 
-**Project Integrations**
-Connecting frontend, backend, databases and external services into complete applications.
-
----
-
-# FEATURED PROJECTS
-
-## 01 — TALK2SLIDES
-
-### Speech → AI → PowerPoint
-
-<img src="./assets/talk2slides.png" width="900" alt="Talk2Slides project">
-
-Talk2Slides is a web application designed to simplify presentation creation by allowing users to provide content through speech and convert it into PowerPoint presentations.
-
-### What I Worked With
-
-* React frontend
-* Node.js backend
-* Express
-* Speech recognition
-* Text processing
-* Translation integration
-* PowerPoint generation
-* MySQL database
-* Authentication
-* Payment integration experiments
-
-### Technology
+**Built with**
 
 `React` `JavaScript` `Node.js` `Express` `MySQL`
 
+**Worked on**
+
+* Speech-to-text
+* React frontend
+* Node.js / Express backend
+* Database integration
+* Translation integration
+* PowerPoint generation
+* User authentication
+* Payment integration
+
+<p>
 <a href="YOUR_TALK2SLIDES_REPOSITORY_URL">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-181818?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VIEW%20SOURCE-181818?style=for-the-badge&logo=github&logoColor=white">
 </a>
+</p>
 
 ---
 
-## 02 — HOMEWARD ESTATE
+## 🏠 Homeward Estate
 
-### Real Estate Web Application
+### Real Estate Web Experience
 
-<img src="./assets/homeward-estate.png" width="900" alt="Homeward Estate project">
+<img src="./assets/homeward-estate.png" width="900" alt="Homeward Estate">
 
-Homeward Estate is a real-estate focused web project designed around presenting properties through a modern and user-friendly interface.
+A real-estate focused web project built around presenting properties through a clean and modern interface.
 
-The project gave me practical experience in frontend development, responsive layouts, application structure and creating a clean user experience.
+**Built with**
 
-### Focus
+`React` `JavaScript` `HTML` `CSS`
 
-* Property presentation
+**Worked on**
+
 * Property listings
+* Property information
+* Responsive interface
+* Navigation
 * Modern UI
-* Responsive design
-* User-friendly navigation
-* Frontend application development
+* Frontend development
 
-### Technology
-
-`HTML` `CSS` `JavaScript` `React`
-
+<p>
 <a href="YOUR_HOMEWARD_ESTATE_REPOSITORY_URL">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-181818?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VIEW%20SOURCE-181818?style=for-the-badge&logo=github&logoColor=white">
 </a>
+</p>
 
 ---
 
-## 03 — MOVIE RECOMMENDATION SYSTEM
+## 🎬 Movie Recommendation System
 
-### Discover Movies You'll Love
+### Discover Movies Based on Your Preferences
 
 <img src="./assets/movie-recommendation.png" width="900" alt="Movie Recommendation System">
 
-A movie recommendation application designed to help users discover movies based on their preferences.
+A movie recommendation project that explores how movie data and recommendation logic can be used to help users discover relevant movies.
 
-The project introduced me to the idea of using data and recommendation logic to create a more personalized user experience.
-
-### What I Worked With
-
-* Movie data
-* Recommendation logic
-* Search and selection
-* User-friendly interface
-* Backend integration
-* Data processing
-
-### Technology
+**Built with**
 
 `Python` `Machine Learning` `Data Processing`
 
+**Worked on**
+
+* Movie dataset processing
+* Recommendation logic
+* Movie selection
+* Data handling
+* Recommendation interface
+
+<p>
 <a href="YOUR_MOVIE_RECOMMENDATION_REPOSITORY_URL">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-181818?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VIEW%20SOURCE-181818?style=for-the-badge&logo=github&logoColor=white">
 </a>
-
----
-
-# TECHNICAL SKILLS
-
-## Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=javascript,python,html,css" />
 </p>
 
-**JavaScript · Python · HTML · CSS**
-
 ---
 
-## Frontend Development
+# TECH STACK
+
+### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
 </p>
 
-**React · JavaScript · HTML · CSS · Responsive UI**
-
----
-
-## Backend Development
+### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,python" />
 </p>
 
-**Node.js · Express.js · Python Flask · REST API Development**
-
----
-
-## Databases
+### Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-**MySQL · MongoDB**
-
----
-
-## Development Tools
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-**Git · GitHub · VS Code**
+### Areas I'm Exploring
+
+`Artificial Intelligence` · `Machine Learning` · `NLP` · `Generative AI`
 
 ---
 
-## AI / ML
+# CURRENTLY BUILDING
 
-**Machine Learning · Recommendation Systems · Data Processing · AI Fundamentals**
+### 🚀 Building Projects
 
----
+Working on projects that combine frontend, backend, databases and external services into complete applications.
 
-# WHAT I'M CURRENTLY IMPROVING
+### 🧠 Exploring AI
 
-### Data Structures & Algorithms
+Learning how AI and Machine Learning can be applied to practical software problems.
 
-Strengthening problem-solving skills and understanding core data structures and algorithms.
+### ⚙️ Improving Development
 
-### Backend Development
-
-Improving my understanding of APIs, server-side architecture, authentication and database integration.
-
-### Artificial Intelligence
-
-Building a stronger foundation in AI and Machine Learning through practical projects and academic work.
-
-### Software Engineering
-
-Learning how to structure applications better, write maintainable code and develop complete software systems.
+Working on better coding practices, debugging, APIs and application architecture.
 
 ---
 
-# MY DEVELOPMENT APPROACH
+# WHAT I ENJOY BUILDING
 
-I learn technology by actually building with it.
-
-```text id="t3j3o7"
-LEARN
-  ↓
-UNDERSTAND
-  ↓
-BUILD
-  ↓
-DEBUG
-  ↓
-IMPROVE
-  ↓
-DEPLOY
-```
-
-Every project gives me an opportunity to understand not only **how to use a technology**, but also how different parts of a software system work together.
-
----
-
-# CURRENT FOCUS
-
-```text id="g9pfap"
-Frontend
-   │
-   ├── React
-   └── JavaScript
+```text
+Web Applications
         │
-        ▼
-Backend
-   │
-   ├── Node.js
-   ├── Express
-   └── Flask
+        ├── Frontend
         │
-        ▼
-Database
-   │
-   ├── MySQL
-   └── MongoDB
+        ├── Backend
         │
-        ▼
-Problem Solving
-   │
-   └── Data Structures & Algorithms
+        └── Database
+
+AI-Powered Ideas
         │
-        ▼
-AI / ML
-   │
-   └── Practical Applications
+        ├── Recommendation Systems
+        │
+        └── Intelligent Applications
+
+Developer Projects
+        │
+        ├── Automation
+        │
+        └── Problem Solving
 ```
 
 ---
 
-# AREAS I'M INTERESTED IN
+# ABOUT ME
 
-* Full-Stack Development
-* Artificial Intelligence
-* Machine Learning
-* Recommendation Systems
-* Backend Development
-* Web Applications
-* Automation
-* Problem Solving
-* Software Engineering
+I'm a Computer Engineering student who enjoys learning by building.
+
+My practical experience is mainly around **React, JavaScript, Node.js, Express, Python, Flask and MySQL**.
+
+I've worked on projects involving web applications, backend development, databases, recommendation systems, speech processing and application integrations.
+
+I'm currently strengthening my skills in **Data Structures & Algorithms, backend development, AI/ML and software engineering**.
 
 ---
 
-# MY GOAL
+# WHAT I'M LEARNING
 
-To grow from a student developer into a strong software engineer by continuously building, experimenting and improving.
+**DSA**
+Improving problem-solving and algorithmic thinking.
 
-I'm focused on developing the ability to take an idea from **concept → development → testing → deployment**.
+**Backend Development**
+Going deeper into APIs, authentication, databases and server-side development.
+
+**AI / ML**
+Building stronger fundamentals and experimenting with practical applications.
+
+**Software Engineering**
+Learning how to design and structure applications more effectively.
+
+---
+
+# HOW I WORK
+
+**Idea → Build → Debug → Improve**
+
+I learn best when I can turn a concept into something working.
 
 ---
 
@@ -290,15 +219,15 @@ I'm focused on developing the ability to take an idea from **concept → develop
 
 <p>
   <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/MY%20PORTFOLIO-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### BUILD · DEBUG · LEARN · IMPROVE
+### BUILD · EXPERIMENT · LEARN · IMPROVE
 
 <sub>Yash Gattewar · Computer Engineering</sub>
