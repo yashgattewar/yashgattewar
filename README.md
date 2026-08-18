@@ -149,3 +149,57 @@ class Developer:
 
 <div align="center">
 
+
+> "The best way to learn technology is by building projects that solve real problems."
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+### I'm always interested in learning, collaborating, and working on interesting tech projects!
+
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0F&color=0077B5)](https://linkedin.com/in/yashgattewar)
+[![Twitter](https://custom-icon-badges.demolab.com/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0A0A0F&color=1DA1F2)](https://twitter.com/yashgattewar)
+[![Email](https://custom-icon-badges.demolab.com/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0F&color=D14836)](mailto:yash@example.com)
+[![Portfolio](https://custom-icon-badges.demolab.com/badge/Portfolio-00FF87?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0A0A0F&color=00FF87)](https://portfolio-yash.vercel.app)
+
+</div>
+
+---
+
+## 🦾 Snake Animation
+
+<div align="center">
+
+![Snake Animation](https://raw.githubusercontent.com/yashgattewar/yashgattewar/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+## 📊 Profile Views
+
+<div align="center">
+
+![Profile Views](https://komarev.com/profile-views?username=yashgattewar&label=Profile%20Views&color=00FF87&labelColor=0A0A0F&style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting! Feel free to check out my projects and connect.
+
+**Made with ❤️ and lots of ☕**
+
+---
+
+*Last Updated: August 2026*
+
+</div>
+
