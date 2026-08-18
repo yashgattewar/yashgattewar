@@ -52,7 +52,8 @@ A web application I'm building to turn spoken input into structured PowerPoint p
 
 ### Real Estate Web Experience
 
-<img src="./assets/homeward-estate.png" width="900" alt="Homeward Estate">
+<img src="homewardestate.jpeg
+" width="900" alt="Homeward Estate">
 
 A real-estate focused web project built around presenting properties through a clean and modern interface.
 
