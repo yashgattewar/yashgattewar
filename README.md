@@ -81,7 +81,7 @@ A real-estate focused web project built around presenting properties through a c
 
 ### Discover Movies Based on Your Preferences
 
-<img src="./assets/movie-recommendation.png" width="900" alt="Movie Recommendation System">
+<img src="movie_recomended.png" width="900" alt="Movie Recommendation System">
 
 A movie recommendation project that explores how movie data and recommendation logic can be used to help users discover relevant movies.
 
