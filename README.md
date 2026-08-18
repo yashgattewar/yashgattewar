@@ -78,17 +78,17 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashgattewar&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1b2a&title_color=00b4d8&text_color=ffffff&icon_color=00b4d8)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=yashgattewar&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1b2a&title_color=00b4d8&text_color=ffffff&icon_color=00b4d8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashgattewar&theme=dark&hide_border=true&background=0d1b2a&stroke=00b4d8&currStreakLabel=00b4d8)
+![GitHub Streak](https://github-readme-streak-stats.vercel.app/api?username=yashgattewar&theme=dark&hide_border=true&background=0d1b2a&stroke=00b4d8&currStreakLabel=00b4d8)
 
 </div>
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashgattewar&layout=compact&theme=dark&hide_border=true&bg_color=0d1b2a&title_color=00b4d8&text_color=ffffff)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=yashgattewar&layout=compact&theme=dark&hide_border=true&bg_color=0d1b2a&title_color=00b4d8&text_color=ffffff)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/api?username=yashgattewar&theme=react-dark&hide_border=true&bg_color=0d1b2a)
+![Contribution Graph](https://ghchart.rshah.org/00b4d8/yashgattewar)
 
 </div>
 
@@ -184,7 +184,7 @@ class Developer:
 
 <div align="center">
 
-![Profile Views](https://komarev.com/profile-views?username=yashgattewar&label=Profile%20Views&color=00b4d8&labelColor=0d1b2a&style=for-the-badge)
+![Profile Views](https://api.visitorbadge.io/api/visitors?path=yashgattewar&label=Profile%20Views&labelColor=%230d1b2a&color=%2300b4d8&style=for-the-badge&logo=github)
 
 </div>
 
