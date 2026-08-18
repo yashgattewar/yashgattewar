@@ -1,6 +1,6 @@
 <!--
-  Hello! Welcome to my GitHub Profile
-  Built with ❤️ using modern GitHub Actions & SVG widgets
+  👋 Welcome to my GitHub Profile
+  Built with ❤️ | Dark Blue Theme
   Last Updated: August 2026
 -->
 
@@ -10,7 +10,7 @@
 
 ### 🎓 Computer Engineering Student · 💻 Full-Stack Developer · 🤖 AI/ML Enthusiast
 
-> Building practical software with modern web technologies, AI, and automation
+> 🚀 Building practical software with modern web technologies, AI, and automation
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashgattewar)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yash@example.com)
@@ -78,17 +78,17 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashgattewar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0A0A0F&title_color=00FF87&text_color=ffffff&icon_color=6366F1)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashgattewar&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1b2a&title_color=00b4d8&text_color=ffffff&icon_color=00b4d8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashgattewar&theme=tokyonight&hide_border=true&background=0A0A0F&stroke=00FF87&currStreakLabel=6366F1)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashgattewar&theme=dark&hide_border=true&background=0d1b2a&stroke=00b4d8&currStreakLabel=00b4d8)
 
 </div>
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashgattewar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0A0F&title_color=00FF87&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashgattewar&layout=compact&theme=dark&hide_border=true&bg_color=0d1b2a&title_color=00b4d8&text_color=ffffff)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/api?username=yashgattewar&theme=tokyonight&hide_border=true&bg_color=0A0A0F)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/api?username=yashgattewar&theme=react-dark&hide_border=true&bg_color=0d1b2a)
 
 </div>
 
@@ -98,11 +98,11 @@
 
 <div align="center">
 
-[![Talk2Slides](https://github-readme-project-card.vercel.app/api/pin?username=yashgattewar&repo=talk2slides&theme=tokyonight&show_owner=true&bg_color=0A0A0F&title_color=00FF87&text_color=ffffff)](https://github.com/yashgattewar/talk2slides)
+[![Talk2Slides](https://github-readme-project-card.vercel.app/api/pin?username=yashgattewar&repo=talk2slides&theme=dark&show_owner=true&bg_color=0d1b2a&title_color=00b4d8&text_color=ffffff)](https://github.com/yashgattewar/talk2slides)
 
-[![Explainable AI](https://github-readme-project-card.vercel.app/api/pin?username=yashgattewar&repo=explainable-ai-loan&theme=tokyonight&show_owner=true&bg_color=0A0A0F&title_color=6366F1&text_color=ffffff)](https://github.com/yashgattewar/explainable-ai-loan)
+[![Explainable AI](https://github-readme-project-card.vercel.app/api/pin?username=yashgattewar&repo=explainable-ai-loan&theme=dark&show_owner=true&bg_color=0d1b2a&title_color=00b4d8&text_color=ffffff)](https://github.com/yashgattewar/explainable-ai-loan)
 
-[![Car Showroom](https://github-readme-project-card.vercel.app/api/pin?username=yashgattewar&repo=car-showroom&theme=tokyonight&show_owner=true&bg_color=0A0A0F&title_color=FFD43B&text_color=ffffff)](https://github.com/yashgattewar/car-showroom)
+[![Car Showroom](https://github-readme-project-card.vercel.app/api/pin?username=yashgattewar&repo=car-showroom&theme=dark&show_owner=true&bg_color=0d1b2a&title_color=00b4d8&text_color=ffffff)](https://github.com/yashgattewar/car-showroom)
 
 </div>
 
@@ -112,7 +112,7 @@
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yashgattewar&theme=tokyonight&column=4&margin-w=15&margin-h=15&hide_border=true&bg_color=0A0A0F&title_color=00FF87&text_color=ffffff)](https://github.com/yashgattewar)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yashgattewar&theme=dark&column=4&margin-w=15&margin-h=15&hide_border=true&bg_color=0d1b2a&title_color=00b4d8&text_color=ffffff)](https://github.com/yashgattewar)
 
 </div>
 
@@ -149,7 +149,6 @@ class Developer:
 
 <div align="center">
 
-
 > "The best way to learn technology is by building projects that solve real problems."
 
 </div>
@@ -162,10 +161,10 @@ class Developer:
 
 ### I'm always interested in learning, collaborating, and working on interesting tech projects!
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0F&color=0077B5)](https://linkedin.com/in/yashgattewar)
-[![Twitter](https://custom-icon-badges.demolab.com/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0A0A0F&color=1DA1F2)](https://twitter.com/yashgattewar)
-[![Email](https://custom-icon-badges.demolab.com/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0F&color=D14836)](mailto:yash@example.com)
-[![Portfolio](https://custom-icon-badges.demolab.com/badge/Portfolio-00FF87?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0A0A0F&color=00FF87)](https://portfolio-yash.vercel.app)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1b2a&color=0077B5)](https://linkedin.com/in/yashgattewar)
+[![Twitter](https://custom-icon-badges.demolab.com/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1b2a&color=1DA1F2)](https://twitter.com/yashgattewar)
+[![Email](https://custom-icon-badges.demolab.com/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1b2a&color=D14836)](mailto:yash@example.com)
+[![Portfolio](https://custom-icon-badges.demolab.com/badge/Portfolio-00FF87?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0d1b2a&color=00FF87)](https://portfolio-yash.vercel.app)
 
 </div>
 
@@ -185,7 +184,7 @@ class Developer:
 
 <div align="center">
 
-![Profile Views](https://komarev.com/profile-views?username=yashgattewar&label=Profile%20Views&color=00FF87&labelColor=0A0A0F&style=for-the-badge)
+![Profile Views](https://komarev.com/profile-views?username=yashgattewar&label=Profile%20Views&color=00b4d8&labelColor=0d1b2a&style=for-the-badge)
 
 </div>
 
@@ -202,4 +201,3 @@ class Developer:
 *Last Updated: August 2026*
 
 </div>
-
