@@ -1,14 +1,14 @@
 # YASH GATTEWAR
 
-### Computer Engineering Student · Full-Stack Developer · AI/ML Enthusiast
+### Computer Engineering Student · Full-Stack Developer in Progress
 
-Building practical software and turning ideas into real-world applications.
+Building practical web applications, learning modern software development, and turning ideas into working products.
 
 <p>
-  <a href="https://YOUR-PORTFOLIO-URL.com">
-    <img src="https://img.shields.io/badge/VIEW%20MY%20PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+  <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -17,231 +17,295 @@ Building practical software and turning ideas into real-world applications.
 
 ## ABOUT ME
 
-I'm a Computer Engineering student passionate about building useful software and exploring modern technologies.
+I'm a Computer Engineering student focused on developing practical software applications.
 
-My main interests are **full-stack development, artificial intelligence, machine learning, automation, and problem solving**.
+I learn technology by building projects — from frontend interfaces and backend APIs to database-driven applications and recommendation systems.
 
-I prefer learning through practical projects — designing, developing, testing and improving real applications.
+My current development experience is mainly around **JavaScript, React, Node.js, Express, Python, Flask and MySQL**.
+
+I'm continuously improving my foundations in **Data Structures & Algorithms, backend development, software engineering and Artificial Intelligence/Machine Learning**.
 
 ---
 
-## TECHNOLOGIES
+## WHAT I BUILD
 
-### Languages
+**Web Applications**
+Creating responsive and user-friendly applications using modern frontend technologies.
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
-</p>
+**Backend Systems**
+Developing server-side functionality and APIs using Node.js, Express and Python/Flask.
 
-### Frontend & Backend
+**Database Applications**
+Working with MySQL and application data to build functional database-driven systems.
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask" />
-</p>
+**AI-Powered Applications**
+Exploring practical applications of AI, recommendation systems and intelligent automation.
 
-### Database & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode" />
-</p>
-
-### AI / ML
-
-`Artificial Intelligence` · `Machine Learning` · `NLP` · `Generative AI`
+**Project Integrations**
+Connecting frontend, backend, databases and external services into complete applications.
 
 ---
 
 # FEATURED PROJECTS
 
-## 01 · TALK2SLIDES
+## 01 — TALK2SLIDES
 
 ### Speech → AI → PowerPoint
 
-<img src="./assets/talk2slides.png" width="850" />
+<img src="./assets/talk2slides.png" width="900" alt="Talk2Slides project">
 
-A web application that converts spoken content into structured PowerPoint presentations.
+Talk2Slides is a web application designed to simplify presentation creation by allowing users to provide content through speech and convert it into PowerPoint presentations.
 
-### Key Features
+### What I Worked With
 
-* Speech-to-text conversion
-* AI-powered content generation
-* Automatic slide creation
+* React frontend
+* Node.js backend
+* Express
+* Speech recognition
+* Text processing
+* Translation integration
 * PowerPoint generation
-* Translation support
-* User authentication
-* Payment integration
+* MySQL database
+* Authentication
+* Payment integration experiments
 
-**Technology**
+### Technology
 
-`React` `Node.js` `Express` `JavaScript` `AI`
+`React` `JavaScript` `Node.js` `Express` `MySQL`
 
-<p>
-<a href="https://github.com/YOUR_USERNAME/YOUR_TALK2SLIDES_REPO">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="YOUR_TALK2SLIDES_REPOSITORY_URL">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181818?style=for-the-badge&logo=github&logoColor=white">
 </a>
-</p>
 
 ---
 
-## 02 · HOMEWARD ESTATE
+## 02 — HOMEWARD ESTATE
 
-### Modern Real Estate Platform
+### Real Estate Web Application
 
-<img src="./assets/homeward-estate.png" width="850" />
+<img src="./assets/homeward-estate.png" width="900" alt="Homeward Estate project">
 
-A modern real-estate application designed to provide an easy way for users to explore and manage property listings.
+Homeward Estate is a real-estate focused web project designed around presenting properties through a modern and user-friendly interface.
 
-### Key Features
+The project gave me practical experience in frontend development, responsive layouts, application structure and creating a clean user experience.
 
+### Focus
+
+* Property presentation
 * Property listings
-* Property search
-* Property details
-* Modern responsive interface
+* Modern UI
+* Responsive design
 * User-friendly navigation
-* Real-estate focused UI
+* Frontend application development
 
-**Technology**
+### Technology
 
-`React` `JavaScript` `HTML` `CSS`
+`HTML` `CSS` `JavaScript` `React`
 
-<p>
-<a href="https://github.com/YOUR_USERNAME/YOUR_HOMEWARD_ESTATE_REPO">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="YOUR_HOMEWARD_ESTATE_REPOSITORY_URL">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181818?style=for-the-badge&logo=github&logoColor=white">
 </a>
-</p>
 
 ---
 
-## 03 · CAR SHOWROOM MANAGEMENT
+## 03 — MOVIE RECOMMENDATION SYSTEM
 
-### Web-Based Management System
+### Discover Movies You'll Love
 
-<img src="./assets/showroom.png" width="850" />
+<img src="./assets/movie-recommendation.png" width="900" alt="Movie Recommendation System">
 
-A database-driven application for managing car showroom information and operations.
+A movie recommendation application designed to help users discover movies based on their preferences.
 
-### Key Features
+The project introduced me to the idea of using data and recommendation logic to create a more personalized user experience.
 
-* Car management
-* Customer management
-* CRUD operations
-* Database integration
-* Web-based interface
+### What I Worked With
 
-**Technology**
+* Movie data
+* Recommendation logic
+* Search and selection
+* User-friendly interface
+* Backend integration
+* Data processing
 
-`Python` `Flask` `MySQL` `HTML` `CSS` `JavaScript`
+### Technology
 
-<p>
-<a href="https://github.com/YOUR_USERNAME/YOUR_SHOWROOM_REPO">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+`Python` `Machine Learning` `Data Processing`
+
+<a href="YOUR_MOVIE_RECOMMENDATION_REPOSITORY_URL">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181818?style=for-the-badge&logo=github&logoColor=white">
 </a>
-</p>
 
 ---
 
-# CURRENTLY BUILDING
+# TECHNICAL SKILLS
 
-```text
-FULL-STACK DEVELOPMENT
-Building modern web applications
-                    ↓
-ARTIFICIAL INTELLIGENCE
-Exploring AI-powered applications
-                    ↓
-MACHINE LEARNING
-Learning practical ML techniques
-                    ↓
-SOFTWARE ENGINEERING
-Improving architecture & problem solving
-                    ↓
-CLOUD & DEPLOYMENT
-Learning modern deployment workflows
-```
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=javascript,python,html,css" />
+</p>
+
+**JavaScript · Python · HTML · CSS**
+
+---
+
+## Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+**React · JavaScript · HTML · CSS · Responsive UI**
+
+---
+
+## Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+</p>
+
+**Node.js · Express.js · Python Flask · REST API Development**
+
+---
+
+## Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+**MySQL · MongoDB**
+
+---
+
+## Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+**Git · GitHub · VS Code**
+
+---
+
+## AI / ML
+
+**Machine Learning · Recommendation Systems · Data Processing · AI Fundamentals**
+
+---
+
+# WHAT I'M CURRENTLY IMPROVING
+
+### Data Structures & Algorithms
+
+Strengthening problem-solving skills and understanding core data structures and algorithms.
+
+### Backend Development
+
+Improving my understanding of APIs, server-side architecture, authentication and database integration.
+
+### Artificial Intelligence
+
+Building a stronger foundation in AI and Machine Learning through practical projects and academic work.
+
+### Software Engineering
+
+Learning how to structure applications better, write maintainable code and develop complete software systems.
 
 ---
 
 # MY DEVELOPMENT APPROACH
 
-**01 — Understand**
+I learn technology by actually building with it.
 
-Break the problem into smaller parts.
+```text id="t3j3o7"
+LEARN
+  ↓
+UNDERSTAND
+  ↓
+BUILD
+  ↓
+DEBUG
+  ↓
+IMPROVE
+  ↓
+DEPLOY
+```
 
-**02 — Design**
-
-Plan the architecture and user experience.
-
-**03 — Build**
-
-Turn the idea into a working application.
-
-**04 — Test**
-
-Find bugs and improve reliability.
-
-**05 — Improve**
-
-Refine performance, usability and design.
-
-**06 — Deploy**
-
-Turn the project into something people can use.
+Every project gives me an opportunity to understand not only **how to use a technology**, but also how different parts of a software system work together.
 
 ---
 
-# CURRENTLY LEARNING
+# CURRENT FOCUS
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,react,nodejs,mongodb,aws" />
-</p>
-
-**Artificial Intelligence · Machine Learning · Generative AI · Backend Development · Cloud**
-
----
-
-# AREAS OF INTEREST
-
-```text
-AI & Machine Learning
-        •
-Full-Stack Development
-        •
-Generative AI
-        •
-Automation
-        •
-Backend Engineering
-        •
-Developer Tools
-        •
-Real-World Applications
+```text id="g9pfap"
+Frontend
+   │
+   ├── React
+   └── JavaScript
+        │
+        ▼
+Backend
+   │
+   ├── Node.js
+   ├── Express
+   └── Flask
+        │
+        ▼
+Database
+   │
+   ├── MySQL
+   └── MongoDB
+        │
+        ▼
+Problem Solving
+   │
+   └── Data Structures & Algorithms
+        │
+        ▼
+AI / ML
+   │
+   └── Practical Applications
 ```
 
 ---
 
-# BEYOND CODE
+# AREAS I'M INTERESTED IN
 
-I enjoy exploring ideas where technology can solve practical problems.
+* Full-Stack Development
+* Artificial Intelligence
+* Machine Learning
+* Recommendation Systems
+* Backend Development
+* Web Applications
+* Automation
+* Problem Solving
+* Software Engineering
 
-I'm particularly interested in building applications that are:
+---
 
-**Useful · Simple · Scalable · Intelligent**
+# MY GOAL
+
+To grow from a student developer into a strong software engineer by continuously building, experimenting and improving.
+
+I'm focused on developing the ability to take an idea from **concept → development → testing → deployment**.
 
 ---
 
 # LET'S CONNECT
 
 <p>
-  <a href="https://YOUR-PORTFOLIO-URL.com">
-    <img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+  <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### BUILD · LEARN · IMPROVE
+### BUILD · DEBUG · LEARN · IMPROVE
 
-<sub>Designed & maintained by Yash Gattewar · 2026</sub>
+<sub>Yash Gattewar · Computer Engineering</sub>
