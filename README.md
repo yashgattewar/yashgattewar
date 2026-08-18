@@ -1,224 +1,233 @@
 # YASH GATTEWAR
 
-**Computer Engineering Student · Full-Stack Developer · AI/ML Enthusiast**
+### Computer Engineering Student · Full-Stack Developer · AI/ML Enthusiast
 
-> Building practical software, exploring AI, and turning ideas into real-world applications.
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:your-email@example.com)
+<p>
+  <a href="https://YOUR-PORTFOLIO-URL.com">
+    <img src="https://img.shields.io/badge/VIEW%20MY%20PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## ABOUT ME
 
-I'm a Computer Engineering student passionate about software development and artificial intelligence.
+I'm a Computer Engineering student who enjoys turning ideas into practical software.
 
-I enjoy building applications that solve practical problems and learning new technologies through hands-on projects.
+My interests are focused on **full-stack development, artificial intelligence, machine learning, and automation**.
 
-* Currently developing full-stack applications
-* Exploring Artificial Intelligence and Machine Learning
-* Building AI-powered tools and automation systems
-* Improving my Data Structures & Algorithms skills
-* Interested in scalable backend systems and modern web technologies
+I learn by building — from web applications and database systems to AI-powered tools.
 
 ---
 
-## WHAT I BUILD
+## TECHNOLOGIES I WORK WITH
 
-```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│   WEB APPLICATIONS                          │
-│   Modern and responsive full-stack apps     │
-│                                             │
-│   AI-POWERED APPLICATIONS                  │
-│   Intelligent systems using AI/ML           │
-│                                             │
-│   AUTOMATION                                │
-│   Turning repetitive tasks into software    │
-│                                             │
-│   REAL-WORLD PROJECTS                       │
-│   Practical solutions to real problems      │
-│                                             │
-└─────────────────────────────────────────────┘
-```
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
+</p>
+
+### Frontend & Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask" />
+</p>
+
+### Database & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode" />
+</p>
+
+### AI / ML
+
+`Artificial Intelligence` · `Machine Learning` · `NLP` · `Generative AI`
 
 ---
 
-## FEATURED PROJECTS
+# FEATURED PROJECTS
 
-### 01 · TALK2SLIDES
+## TALK2SLIDES
 
-**Speech → AI → Presentation**
+### Speech → AI → PowerPoint
 
-A web application that transforms spoken content into structured PowerPoint presentations.
+<img src="./assets/talk2slides.png" width="850" />
 
-**Key Features**
+A web application that converts spoken content into structured PowerPoint presentations.
 
-* Speech-to-text conversion
-* AI-based content processing
-* Automatic slide generation
-* PowerPoint file generation
+**Highlights**
+
+* Speech-to-text
+* AI-powered content generation
+* Automatic slide creation
+* PowerPoint generation
 * Translation support
 * User authentication
 * Payment integration
 
-**Technology**
+**Built with**
 
-`React` `Node.js` `Express` `JavaScript` `AI` `Speech Recognition`
+`React` `Node.js` `Express` `JavaScript` `AI`
+
+<p>
+<a href="https://github.com/YOUR_USERNAME/YOUR_TALK2SLIDES_REPO">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-### 02 · EXPLAINABLE AI FOR LOAN APPROVAL
+## EXPLAINABLE AI FOR LOAN APPROVAL
 
-**Credit Risk Assessment & Financial Decision Support**
+### Intelligent Credit Risk Assessment
 
-An AI/ML-based system designed to support loan approval decisions while making predictions easier to understand.
+<img src="./assets/loan-ai.png" width="850" />
 
-**Key Features**
+An AI/ML system designed to support loan approval decisions while providing understandable explanations for model predictions.
+
+**Highlights**
 
 * Credit risk prediction
 * Machine learning classification
-* Explainable predictions
 * Feature importance
-* SHAP / LIME based explanations
-* Financial decision support
+* SHAP explanations
+* LIME explanations
+* Decision support
 
-**Technology**
+**Built with**
 
-`Python` `Machine Learning` `SHAP` `LIME` `Data Science`
+`Python` `Machine Learning` `SHAP` `LIME`
+
+<p>
+<a href="https://github.com/YOUR_USERNAME/YOUR_LOAN_AI_REPO">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-### 03 · CAR SHOWROOM MANAGEMENT SYSTEM
+## CAR SHOWROOM MANAGEMENT
 
-A web-based application for managing showroom operations and database information.
+### Web-Based Management System
 
-**Key Features**
+<img src="./assets/showroom.png" width="850" />
 
-* Car management
-* Customer management
-* Database operations
-* CRUD functionality
-* Web-based interface
+A database-driven application designed to manage showroom information and operations.
 
-**Technology**
+**Built with**
 
 `Python` `Flask` `MySQL` `HTML` `CSS` `JavaScript`
 
----
-
-## TECHNICAL SKILLS
-
-### Programming
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
-
-### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
-
-### Development Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-
-### AI / ML
-
-`Python` · `Machine Learning` · `NLP` · `Generative AI`
+<p>
+<a href="https://github.com/YOUR_USERNAME/YOUR_SHOWROOM_REPO">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-## CURRENTLY LEARNING
+# WHAT I'M WORKING ON
 
 ```text
-Artificial Intelligence
-        ↓
-Machine Learning
-        ↓
-Generative AI
-        ↓
-Backend Development
-        ↓
-Cloud & Deployment
-        ↓
-Advanced Software Engineering
+┌──────────────────────────────────────────────┐
+│                                              │
+│  FULL-STACK DEVELOPMENT                      │
+│  Building modern web applications            │
+│                                              │
+│  ARTIFICIAL INTELLIGENCE                     │
+│  Exploring AI-powered applications           │
+│                                              │
+│  MACHINE LEARNING                             │
+│  Learning practical ML techniques             │
+│                                              │
+│  SOFTWARE ENGINEERING                        │
+│  Improving architecture & problem solving     │
+│                                              │
+└──────────────────────────────────────────────┘
 ```
 
 ---
 
-## DEVELOPMENT APPROACH
+# MY DEVELOPMENT JOURNEY
 
-I follow a simple approach when building projects:
+**Learn**
 
-**Understand → Design → Build → Test → Improve → Deploy**
+Understanding concepts and technologies.
 
-I prefer learning technologies by actually building applications rather than only studying theory.
+↓
 
----
+**Build**
 
-## PROJECT PHILOSOPHY
+Turning ideas into working applications.
 
-> "Don't just learn technology. Build something with it."
+↓
 
-Every project is an opportunity to:
+**Experiment**
 
-* Learn a new technology
-* Solve a practical problem
-* Improve engineering skills
-* Experiment with new ideas
-* Build something useful
+Trying new technologies and approaches.
 
----
+↓
 
-## CURRENT FOCUS
+**Improve**
 
-**01** — Full-Stack Development
-**02** — Artificial Intelligence & Machine Learning
-**03** — Data Structures & Algorithms
-**04** — Backend Engineering
-**05** — Real-World Project Development
+Testing, debugging and refining.
+
+↓
+
+**Deploy**
+
+Turning projects into usable products.
 
 ---
 
-## OPEN TO
+# CURRENTLY LEARNING
 
-* Collaboration on interesting projects
-* Open-source contributions
-* Hackathons
-* AI/ML projects
-* Full-stack development projects
-* Learning opportunities
+<p>
+<img src="https://skillicons.dev/icons?i=python,react,nodejs,mongodb,aws" />
+</p>
+
+**Artificial Intelligence · Machine Learning · Generative AI · Backend Development · Cloud**
 
 ---
 
-## CONNECT
+# BEYOND CODE
 
-**GitHub:** [github.com/YOUR_USERNAME](https://github.com/)
+I enjoy working on projects where technology can solve practical problems.
 
-**LinkedIn:** [linkedin.com/in/YOUR_USERNAME](https://linkedin.com/)
+I'm particularly interested in:
 
-**Email:** [your-email@example.com](mailto:your-email@example.com)
+* AI-powered applications
+* Developer tools
+* Automation
+* Web applications
+* Intelligent systems
+* Hackathon projects
+* Open-source development
+
+---
+
+# LET'S CONNECT
+
+If you're interested in technology, collaboration or building something interesting, feel free to connect.
+
+<p>
+<a href="https://YOUR-PORTFOLIO-URL.com">
+<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 ---
 
 ### BUILD · LEARN · IMPROVE
 
-*Always learning. Always building.*
-
-<sub>© 2026 Yash Gattewar</sub>
+<sub>Designed & maintained by Yash Gattewar · 2026</sub>
