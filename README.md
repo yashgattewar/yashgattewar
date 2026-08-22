@@ -5,7 +5,7 @@
 **I build web applications and experiment with AI-powered ideas.**
 
 <p>
-  <a href=["https://yashgattewar.github.io/portfolio">
+  <a href="https://yashgattewar.github.io/portfolio">
     <img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/yash-gattewar-0a612a332?utm_source=share_via&utm_content=profile&utm_medium=member_android">
