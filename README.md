@@ -41,7 +41,7 @@ A web application I'm building to turn spoken input into structured PowerPoint p
 * Payment integration
 
 <p>
-<a href="YOUR_TALK2SLIDES_REPOSITORY_URL">
+<a href="https://github.com/Talk2Slides/talk2slides">
 <img src="https://img.shields.io/badge/VIEW%20SOURCE-181818?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
@@ -70,7 +70,7 @@ A real-estate focused web project built around presenting properties through a c
 * Frontend development
 
 <p>
-<a href="YOUR_HOMEWARD_ESTATE_REPOSITORY_URL">
+<a href="https://github.com/yashgattewar/Homeward_estates">
 <img src="https://img.shields.io/badge/VIEW%20SOURCE-181818?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
@@ -98,7 +98,7 @@ A movie recommendation project that explores how movie data and recommendation l
 * Recommendation interface
 
 <p>
-<a href="YOUR_MOVIE_RECOMMENDATION_REPOSITORY_URL">
+<a href="https://github.com/yashgattewar/Movie-Recomended-System">
 <img src="https://img.shields.io/badge/VIEW%20SOURCE-181818?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
